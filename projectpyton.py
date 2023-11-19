@@ -1,4 +1,4 @@
-# Toi la tu me fait honte , "pyton" comment ? 😂😂
+
 import json
 import os
 import tkinter as tk
